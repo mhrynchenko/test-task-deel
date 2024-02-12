@@ -96,3 +96,8 @@ It would be great for example if you'd write some unit test / simple frontend de
 When you have finished the assignment, zip your repo (make sure to include .git folder) and send us the zip.
 
 Thank you and good luck! 🙏
+
+TODO: 
+Hey, I didn't manage to implement endpoints 4 and 7 yet. I've added comments within the methods in app.js explaining how I would go about implementing them. Please take a look when you get a chance.
+
+Also, I've noted some TODO items regarding potential improvements in the code. We can discuss them further later on.
